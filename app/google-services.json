@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "796823219206",
+    "firebase_url": "https://tamsms-ae74d.firebaseio.com",
+    "project_id": "tamsms-ae74d",
+    "storage_bucket": "tamsms-ae74d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796823219206:android:971fea2f02fba39a",
+        "android_client_info": {
+          "package_name": "com.example.tam_sms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796823219206-hgtq2168pj98neiqif94d5fntnnqvlg4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tam_sms",
+            "certificate_hash": "0de5b948a93e629522563a59aabb5249bd15bfa7"
+          }
+        },
+        {
+          "client_id": "796823219206-ci2blt8bo82hi9kg450hncoi6lh0j907.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBapUYylPRiShqvuiTU2Dsr-yQ3sqDWen8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796823219206-ci2blt8bo82hi9kg450hncoi6lh0j907.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
